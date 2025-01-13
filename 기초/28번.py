@@ -1,7 +1,5 @@
 def solution(my_string, queries):
-    answer = ''
-    count = 0
-    
+
     for c in queries:
         str_list = list(my_string)
         
